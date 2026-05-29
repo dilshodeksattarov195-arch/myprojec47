@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfonnect",
+        "uuid": 171832,
+        "checksum": "cgdvy8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
